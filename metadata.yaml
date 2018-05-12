@@ -1,4 +1,8 @@
 _repo: A-Pioneer-Mother_48442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48442-h/images/cover.jpg
 creator:
   author:
     agent_name: Garland, Hamlin
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1034
     wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48442#A-Pioneer-Mother
 gutenberg_issued: '2015-03-09'
 gutenberg_type: Text
 identifiers:
